@@ -7,9 +7,9 @@ class Omh < Formula
 
   desc "Hermes-native workflow skills and maintenance CLI"
   homepage "https://rlaope.github.io/oh-my-hermes/"
-  url "https://github.com/rlaope/oh-my-hermes/releases/download/v4.0.0/oh_my_hermes-4.0.0-py3-none-any.whl"
-  version "4.0.0"
-  sha256 "cfa3bdea428fd475459ec227fc60bd1bbad00fc0da97731d6bd4fe10f22aac77"
+  url "https://github.com/rlaope/oh-my-hermes/releases/download/v4.0.1/oh_my_hermes-4.0.1-py3-none-any.whl"
+  version "4.0.1"
+  sha256 "5439e1fe8329eb0b09494eb312182a1a91635c30b721ea3bd9fe9a50f742e674"
   license "MIT"
 
   depends_on "python@3.14"
