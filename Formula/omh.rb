@@ -6,10 +6,10 @@ class Omh < Formula
   include Language::Python::Virtualenv
 
   desc "Hermes-native workflow skills and maintenance CLI"
-  homepage "https://rlaope.github.io/oh-my-hermes/"
-  url "https://github.com/rlaope/oh-my-hermes/releases/download/v4.0.3/oh_my_hermes-4.0.3-py3-none-any.whl"
-  version "4.0.3"
-  sha256 "cb2fd27f7cded26693e2ea6838da95fe56f93214b605dc61c76fb530642a52d0"
+  homepage "https://omher.app/"
+  url "https://github.com/rlaope/oh-my-hermes/releases/download/v4.0.4/oh_my_hermes-4.0.4-py3-none-any.whl"
+  version "4.0.4"
+  sha256 "b89c8fd645706e220a5d175243661c06698cabbfe2f5a63298b207eb30fb3d0c"
   license "MIT"
 
   depends_on "python@3.14"
